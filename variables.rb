@@ -8,3 +8,6 @@ husgand_age = 48
 
 current_daughter_age = 0.67
 diaper_cost = 0.25
+
+tired = true
+tall = false
